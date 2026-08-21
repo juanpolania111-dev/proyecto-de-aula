@@ -1,7 +1,7 @@
 /*
-Ejercicio 9: Simular un detector de secuencia para una cerradura electronica (simulacion de
-una maquina de estados). El programa debe recibir una lista de bits uno por uno que ingresa
-el usuario. Si detecta que los ultimos bits ingresados tienen la secuencia especifica 1011,
+Ejercicio 9: Simular un detector de secuencia para una cerradura electrónica (simulación de
+una máquina de estados). El programa debe recibir una lista de bits uno por uno que ingresa
+el usuario. Si detecta que los últimos bits ingresados tienen la secuencia específica 1011,
 el mensaje debe ser "Cerradura abierta". Si el bit ingresado rompe la secuencia, no debe
 mostrar nada.
 
