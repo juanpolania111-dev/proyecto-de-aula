@@ -1,8 +1,9 @@
 /*
-Ejercicio 2: De un numero entero positivo que esta guardado en una variable llamada NUMERO,
-mostrar en pantalla su raiz cuadrada usando el metodo de Newton. Debe realizarse una funcion
-que acepte el valor de NUMERO y retorne el resultado, sin usar una libreria que contenga esa
-funcion. Resultado esperado: {'Numero' : NUMERO, 'Raiz cuadrada usando Newton' : RESULTADO}
+Ejercicio 2: De un número entero positivo que está guardado en una variable llamada NUMERO,
+mostrar en pantalla su raíz cuadrada usando el método de Newton. Para este ejercicio debe
+realizarse una función que acepte el valor la variable NUMERO y retorne el resultado usando
+el método de Newton, sin usar una librería que contenga esa función. Resultado esperado en
+pantalla: {'Número' : NUMERO, 'Raíz cuadrada usando Newton' : RESULTADO}
 
 # Proyecto de Aula
 
