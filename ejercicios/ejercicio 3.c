@@ -1,6 +1,7 @@
 /*
-Ejercicio 3: Usando NUMERO como limite, aplicar la Criba de Eratostenes e imprimir en
-pantalla todos los numeros menores a NUMERO que son primos.
+Ejercicio 3: Crear un programa pida al usuario un número entero positivo y almacenarlo en la
+variable NUMERO. Usando NUMERO como límite, aplicar la Criba de Eratóstenes e imprimir en
+pantalla todos los números menores a NUMERO que son primos.
 
 # Proyecto de Aula
 
