@@ -1,8 +1,8 @@
 /*
-Ejercicio 10: Los sensores analogicos suelen presentar ruido. Definir una lista de 10
+Ejercicio 10: Los sensores analógicos suelen presentar ruido. Definir una lista de 10
 lecturas llamada LECTURAS_ADC. Crear un programa que calcule una nueva lista donde cada
 elemento sea el promedio de la lectura actual y las dos anteriores (esto se le conoce como
-filtro de media movil). Para la primera posicion, segunda y ultima posicion de la nueva
+filtro de media móvil). Para la primera posición, segunda y última posición de la nueva
 lista, dejar en 0.
 
 # Proyecto de Aula
