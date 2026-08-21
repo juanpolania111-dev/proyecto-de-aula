@@ -1,7 +1,8 @@
 /*
-Ejercicio 7: Leer una variable de 8 bits llamada REGISTRO_ESTADO. El programa debe extraer y
-mostrar por separado el valor de los 4 bits menos significativos (nibble inferior) y el
-estado (0 o 1) del bit numero 5. Usar exclusivamente operadores de bits.
+Ejercicio 7: En sistemas embebidos, los registros suelen empaquetar varios estados. Leer una
+variable de 8 bits llamada REGISTRO_ESTADO. El programa debe extraer y mostrar por separado
+el valor de los 4 bits menos significativos (nibble inferior) y el estado (0 o 1) del bit
+número 5. Usar exclusivamente operadores de bits (&, >>).
 
 # Proyecto de Aula
 
