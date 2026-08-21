@@ -1,8 +1,8 @@
 /*
-Ejercicio 8: Crear una funcion que reciba tres variables booleanas (A, B, C) y retorne el
-resultado de la siguiente expresion logica: F = (A . B) + not(C). El resultado debe
-mostrarse como una pequena tabla de verdad en la consola para todas las combinaciones
-posibles de las entradas.
+Ejercicio 8: Crear una función que reciba tres variables booleanas (A, B, C) y retorne el
+resultado de la siguiente expresión lógica: F = (A · B) + C̄ El resultado debe mostrarse como
+una pequeña tabla de verdad en la consola para todas las combinaciones posibles de las
+entradas.
 
 # Proyecto de Aula
 
