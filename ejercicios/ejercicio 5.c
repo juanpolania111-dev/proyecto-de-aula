@@ -1,8 +1,8 @@
 /*
-Ejercicio: Preguntar al usuario un número entero y almacenar en la variable NUMERO. 
-Imprimir el valor de la posición NUMERO de la secuencia de Fibonacci asumiendo que 
- y. Verificar que NUMERO debe ser >= 2, en caso contrario, mostrar un mensaje que
- NUMERO debe cumplir esa condición.
+Ejercicio 5: Preguntar al usuario un número entero y almacenar en la variable NUMERO.
+Imprimir el valor de la posición NUMERO de la secuencia de Fibonacci asumiendo que f0=0 y
+f1=1. Verificar que NUMERO debe ser >= 2, en caso contrario, mostrar un mensaje que NUMERO
+debe cumplir esa condición.
 
 # Proyecto de Aula
 
