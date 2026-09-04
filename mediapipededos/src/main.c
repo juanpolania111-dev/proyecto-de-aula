@@ -1,6 +1,6 @@
 /*
 Ejercicio 4.6.4.1: Control de LEDs via MediaPipe y PySerial
-Lenguaje: C Puro (ESP-IDF)
+
 Integrantes:
 - Juan Polania
 - Jurgen Cantillo
