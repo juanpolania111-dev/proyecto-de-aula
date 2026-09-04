@@ -3,7 +3,7 @@ import mediapipe as mp
 import serial
 import time
 
-# Intenta conectar al ESP32 (Ajusta 'COM3' al puerto real de la U)
+# Intenta conectar al ESP32 
 USAR_SERIAL = True
 try:
     ser = serial.Serial('COM3', 115200, timeout=1)
