@@ -1,6 +1,10 @@
 /*
   Actividad 4.7.6.3: Analizar trama en JSON
   Framework: ESP-IDF 
+- Juan Polania
+- Jurgen Cantillo
+- Giovani Pedroza
+- Alvaro Martinez
 */
 
 #include <stdio.h>
