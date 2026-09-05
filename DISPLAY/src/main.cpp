@@ -1,9 +1,17 @@
 #include <Arduino.h>
+/*
+ Ejemplo de uso de display 7 segmentos (seccion 5.3.3): banner con el
+ alfabeto Siekoo (Figura 57) mostrando los apellidos del grupo en 4 digitos.
+ Wiring: proyecto ESP32 7 segment 4 v2 (comun catodo), profe Nazhir Amaya Tejera
+## Integrantes
 
-// Ejemplo de uso de display 7 segmentos (seccion 5.3.3): banner con el
-// alfabeto Siekoo (Figura 57) mostrando los apellidos del grupo en 4 digitos.
-// Integrantes: Cantillo, Polania, Pedroza, Martinez
-// Wiring: proyecto ESP32 7 segment 4 v2 (comun catodo), profe Nazhir Amaya Tejera
+- Juan Polania
+- Jurgen Cantillo
+- Giovani Pedroza
+- Alvaro Martinez
+*/
+
+
 
 const int SEG_A = 5, SEG_B = 4, SEG_C = 19, SEG_D = 25, SEG_E = 26, SEG_F = 33, SEG_G = 32;
 const int DIG[4] = {22, 21, 15, 2}; // DIG1..DIG4, comun catodo: LOW activa el digito
