@@ -1,11 +1,12 @@
 /*
 Ejercicio 4.6.4.1: Control de LEDs via MediaPipe y PySerial
 
-Integrantes:
 - Juan Polania
 - Jurgen Cantillo
 - Giovani Pedroza
+- Alvaro Martinez
 */
+
 
 #include <stdio.h>
 #include <stdlib.h>
