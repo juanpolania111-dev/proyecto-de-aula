@@ -2,6 +2,11 @@
 Ejercicio 1: Cálculo del Cuadrado vía Terminal Serial
 Framework: ESP-IDF (C puro)
 Baud rate: 115200
+
+- Juan Polania
+- Jurgen Cantillo
+- Giovani Pedroza
+- Alvaro Martinez
 */
 
 #include <stdio.h>
