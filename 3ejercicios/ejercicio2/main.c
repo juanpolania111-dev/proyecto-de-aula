@@ -1,5 +1,9 @@
 /*
 Ejercicio 2: Caudalímetro y Telemetría Serial (ESP-IDF / FreeRTOS)
+- Juan Polania
+- Jurgen Cantillo
+- Giovani Pedroza
+- Alvaro Martinez
 */
 
 #include <stdio.h>
